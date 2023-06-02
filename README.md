@@ -1,5 +1,5 @@
 # UPenn CURF Scraper
-This software is for downloading the [Center for Undergraduate Research and Funding Research Directory at the University of Pennsylvania](https://curf.upenn.edu/undergraduate-research/research-directory) so that it can be searched easier.
+This software is for downloading the [Center for Undergraduate Research & Fellowships Research Directory at the University of Pennsylvania](https://curf.upenn.edu/undergraduate-research/research-directory) so that it can be searched easier.
 
 ## Usage
 This program was made for utility, not user experience. Because of that, the easiest way to create flexible custom search filters was to just [hard-code a function](src/filter.rs). As a result, if you want to change the search function, you must compile it yourself. Lookup how to set up a Rust programming environment and remember that this project uses nightly Rust so before running something like `cargo run --release -- update-auth`, you must first run `rustup override set nightly`. If you have [Nix](https://nix.dev/tutorials/install-nix) installed you can enter a complete environment by just running `nix-shell`.
