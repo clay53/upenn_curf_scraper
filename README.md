@@ -7,5 +7,8 @@ This program was made for utility, not user experience. Because of that, the eas
 ## Stability Notice
 There is no standard API for accessing the CURF research directory so this software depends on the layout of the website being consistent. Consequently, this software will probably break every time the Research Directory webpage changes. The original developer ([Clayton Hickey](https://claytonhickey.me)) is probably not that concerned about it breaking. If you need someone to fix it immediately, pay them or fix it yourself. Otherwise, just leave an issue in the issue tracker with all the information you can think of and more that would help someone fix the issue, but make sure no else has reported it already.
 
-## Notice
+## Liability Notice
 The developer(s) do not take liability for misuse of this software. Please avoid scraping as much as possible. Do not share scraped data. If used responsibly, this software is both more convenient for the user and reduces overall load (though may cause short peaks) on the CURF servers.
+
+## Trademark Notice
+Should be obvious, but this project is not affiliated with [UPenn](https://upenn.edu). This project does not claim any trademarks and the use of "UPenn" in the name is to make it easier to find (literally just says what it does).
