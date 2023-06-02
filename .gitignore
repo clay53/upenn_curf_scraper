@@ -1,0 +1,9 @@
+/target
+/.cargo
+/.vscode
+.history
+auth.ron
+links.ron
+opportunities.ron
+processed_opportunities.ron
+src/filter.rs
